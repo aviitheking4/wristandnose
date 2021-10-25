@@ -1,0 +1,31 @@
+ #heading 
+ {
+    font-family: 'Festive', cursive;
+ }
+
+ #span1
+ {
+    font-family: 'Festive', cursive;
+font-family: 'Oswald', sans-serif; 
+ }
+
+ .copy_right_for_no_reason
+ {
+     font-size: 20px;
+     font-style: oblique;
+     text-decoration-color: aquamarine;
+     position:fixed;
+     color:crimson;
+     bottom: 0;
+    background-color: grey;
+    text-align:center;
+    width: 100%;
+ }
+
+ canvas
+ {
+    background-color: salmon;
+    box-shadow: 5px 5px 5px  peachpuff;
+    border: 5px 5px peru;
+    margin-left: 200px;
+ }
